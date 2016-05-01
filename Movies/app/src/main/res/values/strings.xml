@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Harry Potter Movies</string>
+    <string name="posters_activity_title">Harry Potter Movies</string>
+    <string name="movie_details_activity_title">Movie Details</string>
+    <string name="mark_as_favorite_btn">MARK AS \nFAVORITE</string>
+    <string name="unmark_as_favorite_btn">UNMARK AS \nFAVORITE</string>
+
+</resources>

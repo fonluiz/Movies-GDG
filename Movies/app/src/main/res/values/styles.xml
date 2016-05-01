@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#212121</item>
+        <item name="colorPrimaryDark">#616161</item>
+        <item name="colorAccent">#009688</item>
+    </style>
+
+    <style name="divider_style">
+        <item name="android:layout_marginLeft">@dimen/normalMargin</item>
+        <item name="android:layout_marginRight">@dimen/normalMargin</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/dividerHeight</item>
+        <item name="android:background">@color/colorDivider</item>
+    </style>
+
+</resources>
